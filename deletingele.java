@@ -3,7 +3,7 @@ public class deletingele {
     public static void main(String args[]){
         int[] A=new int[7];
         A[0]=3;
-        A[1]=0;
+        A[1]=1;
         A[2]=9;
         A[3]=8;
         A[4]=5;
